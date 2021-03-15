@@ -133,14 +133,6 @@ def begin():
 	login_button.place(relx = 0.5, 
                    rely = 0.7,
                    anchor = 'center')
-
 	
-	
-
-
-	 
-		
 begin()
-
-#access(option)
 root.mainloop()
